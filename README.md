@@ -1,2 +1,4 @@
-# Mobile-sales-dashboard
-Power BI dashboard analyzes mobile sales with key metrics , trends, city-wise performance, customer ratings, and payment methods. It includes MTD, YoY comparisons, and AI-powered Q&amp;A for quick insights into top models, cities, and sales growth.          
+# Mobile Sales Performance Dashboard using Power BI
+
+# Project Objective
+To design an interactive Power BI dashboard that provides real-time insights into mobile sales data, enabling analysis by product, location, time, and customer behavior. The goal is to support data-driven decision-making for improving sales strategies and performance         
