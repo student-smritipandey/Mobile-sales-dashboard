@@ -25,3 +25,5 @@ KPI Calculation – Created DAX measures for sales, quantity, average price, and
 Visualization – Designed 4 report pages with charts, maps, and filters.
 AI Q&A – Enabled natural language insights with Power BI Q&A.
 Testing – Verified accuracy of data and visuals.
+# Conclusion
+The mobile sales performance dashboard using Power BI is a comprehensive project that aims to provide real time insights into mobile sales data. By answering key performance indicators and following structured process, the project delivers a valuable tool for decision- making and improving sales strategies and performance. Overall, this project demonstrates the potential of business intelligence tools like Power BI in driving business success.
