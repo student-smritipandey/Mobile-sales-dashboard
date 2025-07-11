@@ -3,6 +3,8 @@
 # Project Objective
 To design an interactive Power BI dashboard that provides real-time insights into mobile sales data, enabling analysis by product, location, time, and customer behavior. The goal is to support data-driven decision-making for improving sales strategies and performance         
 
+# Dataset Used 
+<a href="https://github.com/student-smritipandey/Mobile-sales-dashboard">Mobile sales dashboard dataset </a> 
 # Questions (KPI'S) 
  How many mobile units were sold?
 How many total transactions took place?
